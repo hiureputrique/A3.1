@@ -1,0 +1,4 @@
+lib/app/module/atleta/atleta_page.dart
+test/app/module/atleta/atleta_page_test.dart
+lib/app/module/atleta/atleta_bloc.dart
+test/app/module/atleta/atleta_bloc_test.dart

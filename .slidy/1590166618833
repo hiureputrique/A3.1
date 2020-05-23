@@ -1,0 +1,4 @@
+lib/app/module/categorias/categorias_page.dart
+test/app/module/categorias/categorias_page_test.dart
+lib/app/module/categorias/categorias_bloc.dart
+test/app/module/categorias/categorias_bloc_test.dart

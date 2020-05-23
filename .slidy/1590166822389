@@ -1,0 +1,2 @@
+lib/app/modules/categirias/categorias_repository.dart
+test/app/modules/categirias/categorias_repository_test.dart
