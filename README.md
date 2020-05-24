@@ -1,1 +1,1 @@
-## Projeto desenvolvido com slidy e (Bloc-RcDart)
+## Projeto desenvolvido com slidy e (Bloc-RxDart)
